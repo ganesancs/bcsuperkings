@@ -3,7 +3,6 @@ import Head from 'next/head';
 import Pricing from '../components/pricing';
 import Footer from '../components/footer';
 import Membership from '../components/membership';
-import UserProfile from '../components/userProfile';
 const Home = () => (
 	<div>
 		<Head>
