@@ -11,7 +11,7 @@ export default class Badminton extends React.Component {
 					<div className="carousel-item active">
 						<img
 							className="d-block w-100"
-							src="http://yesofcorsa.com/wp-content/uploads/2018/01/Shuttlecock-Best-Wallpaper-1024x683.jpg"
+							src="https://www.larutadelsorigens.cat/wallpic/full/65-652970_other-badminton-racket-hd-photography-closeup-badminton.jpg"
 							alt=""
 						/>
 						<div className="carousel-caption d-md-block">
