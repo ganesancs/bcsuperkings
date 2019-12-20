@@ -89,7 +89,7 @@ export default class Pricing extends React.Component {
 						</div>
 					</div>
 					<div align="center">
-						<a href="https://forms.gle/X7RXDZCEqjS2pcjC9" className="btn btn-common">
+						<a href="https://forms.gle/mEDaLCGgxkyjhXqj6" className="btn btn-common">
 							Become a member
 						</a>
 					</div>

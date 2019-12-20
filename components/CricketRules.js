@@ -70,7 +70,7 @@ export default class CricketRules extends React.Component {
 
 							<h3> Await our announcement for a bigger summer outdoor soft ball tournament! </h3>
 							<p className="lead">
-								<Button href="https://forms.gle/kgqaGpF9rY4aDbMH8" color="primary">
+								<Button href="https://forms.gle/VAxzrJMsyjMYo8Na9" color="primary">
 									REGISTER!
 								</Button>
 							</p>
