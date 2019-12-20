@@ -30,7 +30,7 @@ export default class CricketRules extends React.Component {
 							First 12 teams to register qualifies to participate <br />
 							Payment : E-transfer to sports@bcsuperkings.ca <br />
 							Prize Money : Cash Prize $150 for Winning Team / $75 Runner-Up Team <br/>
-							Trophies : Winning Team - Rolling + Individual trophy (given at the awards nights) <br/>
+							Trophies : Winning Team - Rolling + Individual trophy (given at the awards nights) <br/> </p>
 							<ul>
 									<li> 7 players per team + 2 substitutes max allowed </li>
 									<li>Each game time slot is approximately 30mins </li>
@@ -64,7 +64,7 @@ export default class CricketRules extends React.Component {
 									<li> Team members without the waiver form signed will not be allowed to enter the event venue. </li>
 
 							</ul>
-</p>
+
 							<h3> Await our announcement for a bigger summer outdoor soft ball tournament! </h3>
 							<p className="lead">
 								<Button href="https://forms.gle/kgqaGpF9rY4aDbMH8" color="primary">
