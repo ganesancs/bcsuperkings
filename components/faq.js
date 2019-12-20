@@ -36,9 +36,7 @@ export default class Faq extends React.Component {
 										data-parent="#question"
 									>
 										<div className="card-body">
-											A membership includes Sport Liability and Accident Insurance coverage while
-											participating in registered club activities. Apart from this, only members
-											can utilize grants and sponsorship programs.
+											Members will have reduced fee for all the events conducted by the club.
 										</div>
 									</div>
 								</div>
