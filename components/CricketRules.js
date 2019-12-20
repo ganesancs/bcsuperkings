@@ -32,7 +32,7 @@ export default class CricketRules extends React.Component {
 							First 12 teams to register qualifies to participate <br />
 							Payment : E-transfer to sports@bcsuperkings.ca <br />
 							Prize Money : Cash Prize $150 for Winning Team / $75 Runner-Up Team <br/>
-							Trophies : Winning Team - Rolling + Individual trophy (given at the awards nights) <br/> </p>.
+							Trophies : Winning Team - Rolling + Individual trophy (given at the awards nights) <br/> </p>
 							<div>
 							<ListGroup>
 									<ListGroupItem> 7 players per team + 2 substitutes max allowed </ListGroupItem>
