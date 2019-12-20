@@ -23,14 +23,15 @@ export default class CricketRules extends React.Component {
 							<p className="lead">8AM - 8PM</p>
 							<hr className="my-2" />
 							<p> 
-							Teams : 7 players/team + 2 sub <br/>
+							Teams: 7 players/team + 2 sub <br/>
 							Fees : Members - $50 per team | Non-Members - $100 per team <br/>
  							All players in a team should be BC Super Kings members to avail member price <br/>
 							Registration closes by : 25th Dec 2019 before 7 PM. <br/>
 							First 12 teams to register qualifies to participate <br />
 							Payment : E-transfer to sports@bcsuperkings.ca <br />
 							Prize Money : Cash Prize $150 for Winning Team / $75 Runner-Up Team <br/>
-							Trophies : Winning Team - Rolling + Individual trophy (given at the awards nights) <br/> </p>
+							Trophies : Winning Team - Rolling + Individual trophy (given at the awards nights) <br/> </p>.
+							<div>
 							<ul>
 									<li> 7 players per team + 2 substitutes max allowed </li>
 									<li>Each game time slot is approximately 30mins </li>
@@ -63,7 +64,7 @@ export default class CricketRules extends React.Component {
 									<li>Due to restrictions and limited capacity at the venue, no spectators are allowed other than the participating team members. </li>
 									<li> Team members without the waiver form signed will not be allowed to enter the event venue. </li>
 
-							</ul>
+							</ul> </div>
 
 							<h3> Await our announcement for a bigger summer outdoor soft ball tournament! </h3>
 							<p className="lead">
