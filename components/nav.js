@@ -86,7 +86,10 @@ export default class Nav extends React.Component {
 						</a>
 					</li>
 					<li>
-						<EventsBar />
+						<a className="page-scrool">
+							<EventsBar />
+						</a>
+						
 					</li>
 					<li>
 						<a className="page-scroll" href="#team">
