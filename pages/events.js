@@ -29,7 +29,6 @@ const Home = () => (
         </Head>
         <header id="header-wrap">
             <Nav />
-            <Carousel />
         </header>
         <Schedule />
 
