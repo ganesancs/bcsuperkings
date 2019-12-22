@@ -150,7 +150,7 @@ export default class Schedule extends React.Component {
 												<div className="card-body">
 													<div className="location">
 														< a href="/volleyball-2019">Click here for registration and more details</a> <br />
-														<span>Location:</span> TBA
+														<span>Location:</span> Walnut Road Elementary School, 16152 82 Ave, Surrey, BC V4N 0N5
 													</div>
 												</div>
 											</div>
@@ -210,7 +210,7 @@ export default class Schedule extends React.Component {
 														/>
 													</div>
 													<span className="time">8am - 8pm</span>
-													<h4>Kids Badminton Tournament</h4>
+													<h4>Women & Kids Badminton Tournament</h4>
 												</div>
 											</div>
 											<div
@@ -222,7 +222,7 @@ export default class Schedule extends React.Component {
 												<div className="card-body">
 													<div className="location">
 														< a href="/badminton2020">Click here for registration and more details</a> <br />
-														<span>Location:</span> TBA
+														<span>Location:</span> Walnut Road Elementary School, 16152 82 Ave, Surrey, BC V4N 0N5
 													</div>
 												</div>
 											</div>

@@ -20,6 +20,7 @@ export default class VBRules extends React.Component {
 						<Container fluid>
 							<h1 className="display-3">Rules and Regulations</h1>
 							<p className="lead"> January 26, 2020 Contact: sports@bcsuperkings.ca</p>
+							<p className="lead">Walnut Road Elementary School, 16152 82 Ave, Surrey, BC V4N 0N5</p>
 							<hr className="my-2" />
 							<p>Volley ball women team of 6
 								Event Fees:
