@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
+import Nav from '../components/nav';
 import Schedule from '../components/schedule';
-import NavEventsPage from '../components/navEventsPage';
 
 
 const Home = () => (
@@ -21,7 +21,7 @@ const Home = () => (
             <link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
         </Head>
         <header id="header-wrap">
-            <NavEventsPage />
+            <Nav />
         </header>
         <Schedule />
 
@@ -68,6 +68,13 @@ const Home = () => (
         <script src="assets/js/jquery.slicknav.js"></script>
         <script src="assets/js/nivo-lightbox.js"></script>
         <script src="assets/js/main.js"></script>
+        <script src="assets/js/form-validator.min.js"></script>
+        <script src="assets/js/contact-form-script.min.js"></script>
+        <script src="assets/js/map.js"></script>
+        <script
+            type="text/javascript"
+            src="//maps.googleapis.com/maps/api/js?key=AIzaSyCsa2Mi2HqyEcEnM1urFSIGEpvualYjwwM"
+        ></script>
     </div>
 );
 

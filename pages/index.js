@@ -35,6 +35,7 @@ const Home = () => (
 		<Services />
 		<About />
 		<Team />
+		<EventsBar />
 		<Faq />
 		<Sponsors />
 		<Contact />
