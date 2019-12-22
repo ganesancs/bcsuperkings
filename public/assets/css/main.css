@@ -833,9 +833,6 @@ a.back-to-top:focus {
   display: none;
 }
 
-.mobile-menu {
-  display: none;
-}
 
 .slicknav_menu {
   display: none;
@@ -857,9 +854,6 @@ a.back-to-top:focus {
     max-width: 200px;
   }
 
-  #mobile-menu {
-    display: none;
-  }
 
   .slicknav_menu {
     display: block;
