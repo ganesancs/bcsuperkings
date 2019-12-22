@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import EventsBar from './navEvents';
+import Schedule from './schedule';
 export default class Nav extends React.Component {
 	render() {
 		return (
@@ -38,7 +39,9 @@ export default class Nav extends React.Component {
 								</a>
 							</li>
 							<li className="nav-item">
-								<EventsBar />
+								<Link href="/events">
+									<a className="nav-link">Events</a>
+								</Link>
 							</li>
 							<li className="nav-item">
 								<a className="nav-link" href="#team">
@@ -86,9 +89,9 @@ export default class Nav extends React.Component {
 						</a>
 					</li>
 					<li>
-						<a>
-							<EventsBar />
-						</a>
+						<Link href="/events">
+							<a className="nav-link">Events</a>
+						</Link>
 						
 					</li>
 					<li>

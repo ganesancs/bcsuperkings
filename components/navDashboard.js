@@ -1,5 +1,6 @@
 import React from 'react';
 import EventsBar from './navEvents';
+import Schedule from './schedule';
 
 export default class NavDashboard extends React.Component {
 	render() {
@@ -33,7 +34,9 @@ export default class NavDashboard extends React.Component {
 								</a>
 							</li>
 							<li className="nav-item">
-								<EventsBar />
+								<Link href="/events">
+									<a className="nav-link">Events</a>
+								</Link>
 							</li>
 							<li className="nav-item">
 								<a href="/api/logout" className="nav-link">
@@ -56,7 +59,9 @@ export default class NavDashboard extends React.Component {
 						</a>
 					</li>
 					<li>
-						<EventsBar />
+						<Link href="/events">
+							<a className="page-scrool">Events</a>
+						</Link>
 					</li>
 					<li>
 						<a onClick={() => this.logout()} className="page-scroll">
