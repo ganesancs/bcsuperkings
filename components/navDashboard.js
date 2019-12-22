@@ -1,6 +1,4 @@
 import React from 'react';
-import EventsBar from './navEvents';
-import Schedule from './schedule';
 
 export default class NavDashboard extends React.Component {
 	render() {

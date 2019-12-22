@@ -4,7 +4,6 @@ import Nav from '../components/nav';
 import Carousel from '../components/carousel';
 import Services from '../components/services';
 import About from '../components/about';
-import Schedule from '../components/schedule';
 import Team from '../components/team';
 import Faq from '../components/faq';
 import Sponsors from '../components/sponsors';
