@@ -77,6 +77,7 @@ export default class Schedule extends React.Component {
 											>
 												<div className="card-body">
 													<div className="location">
+														< a href="/cricket">Registration and More details</a>
 														<span>Location:</span> Stallions Cricket Center: 304, 12886 Anvil Way #305, Surrey, BC V3W 8E7
 													</div>
 												</div>
@@ -137,6 +138,7 @@ export default class Schedule extends React.Component {
 													/>
 												</div>
 												<span className="time">8am - 8pm</span>
+												
 												<h4>Women's Volley Ball Tournament</h4>
 											</div>
 										</div>
@@ -148,6 +150,7 @@ export default class Schedule extends React.Component {
 										>
 											<div className="card-body">
 												<div className="location">
+													< a href="/volleyball-2019">Registration and More details</a>
 													<span>Location:</span> TBA
 													</div>
 											</div>
@@ -219,6 +222,7 @@ export default class Schedule extends React.Component {
 									>
 										<div className="card-body">
 											<div className="location">
+													< a href="/badminton2020">Registration and More details</a>
 												<span>Location:</span> TBA
 													</div>
 										</div>
