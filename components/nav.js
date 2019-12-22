@@ -76,33 +76,33 @@ export default class Nav extends React.Component {
 
 				<ul className="mobile-menu">
 					<li>
-						<a className="page-scrool" href="#header-wrap">
+						<a href="#header-wrap">
 							Home
 						</a>
 					</li>
 					<li>
-						<a className="page-scrool" href="#about">
+						<a href="#about">
 							About
 						</a>
 					</li>
 					<li>
-						<a className="page-scrool">
+						<a>
 							<EventsBar />
 						</a>
 						
 					</li>
 					<li>
-						<a className="page-scroll" href="#team">
+						<a href="#team">
 							Team
 						</a>
 					</li>
 					<li>
-						<a className="page-scroll" href="#faq">
+						<a href="#faq">
 							Faq
 						</a>
 					</li>
 					<li>
-						<a className="page-scroll" href="#sponsors">
+						<a href="#sponsors">
 							Sponsors
 						</a>
 					</li>
@@ -117,7 +117,7 @@ export default class Nav extends React.Component {
 						</a>
 					</li>
 					<li>
-						<a className="page-scroll" href="#contact-map">
+						<a href="#contact-map">
 							Contact
 						</a>
 					</li>
