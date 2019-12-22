@@ -33,6 +33,7 @@ const Home = () => (
 		</header>
 		<Services />
 		<About />
+		<Schedule />
 		<Team />
 		<Faq />
 		<Sponsors />
