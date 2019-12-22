@@ -10,6 +10,7 @@ import Faq from '../components/faq';
 import Sponsors from '../components/sponsors';
 import Contact from '../components/contact';
 import Footer from '../components/footer';
+import EventsBar from '../components/navEvents';
 
 const Home = () => (
 	<div>
@@ -34,6 +35,7 @@ const Home = () => (
 		<Services />
 		<About />
 		<Team />
+		<EventsBar />
 		<Faq />
 		<Sponsors />
 		<Contact />
