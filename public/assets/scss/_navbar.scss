@@ -211,7 +211,9 @@
   display: none;
 }
 // Mobile Menu
-
+.mobile-menu{
+  display: none;
+}
 .slicknav_menu {
   display:none;
 }
@@ -227,7 +229,10 @@
     img{
       width: 75%;
     }
-
+}
+  #mobile-menu {
+    display:none;
+  }
   
   .slicknav_menu {
     display:block;
