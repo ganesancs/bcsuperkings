@@ -17,12 +17,13 @@ export default class Sponsors extends React.Component {
 							</div>
 						</div>
 					</div>
-					<div class="row mb-30 text-center wow fadeInDown" data-wow-delay="0.3s">
-
-						<div class="col-md-3 col-sm-3 col-xs-12">
-							<div class="spnsors-logo">
-								<a href="#"><img class="img-fluid" src="assets/img/sponsors/hsb.jpg" alt=""/></a>
-           					 </div>
+					<div className="row mb-30 text-center wow fadeInDown" data-wow-delay="0.3s">
+						<div className="col-md-3 col-sm-3 col-xs-12">
+							<div className="spnsors-logo">
+								<a href="#">
+									<img class="img-fluid" src="assets/img/sponsors/hsb.jpg" alt="" />
+								</a>
+							</div>
 						</div>
 					</div>
 					<div className="row mb-30 text-center wow fadeInDown" data-wow-delay="0.3s">

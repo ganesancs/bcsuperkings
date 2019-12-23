@@ -38,6 +38,21 @@ export default class Footer extends React.Component {
 						</div>
 					</div>
 				</div>
+				<div id="copyright">
+					<div className="container">
+						<div className="row">
+							<div className="col-md-12">
+								<div className="site-info">
+									<p>© BC Super Kings 2019 - 2020</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<a href="#" className="back-to-top">
+					<i className="lni-chevron-up"></i>
+				</a>
 			</footer>
 		);
 	}

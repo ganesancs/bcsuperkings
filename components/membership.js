@@ -37,9 +37,9 @@ export default class Membership extends React.Component {
 									About
 								</a>
 							</li>
-							<li className="nav-item">
-								<EventsBar />
-							</li>
+							<Link href="/events" as="/events">
+								<a className="nav-link">Events</a>
+							</Link>
 							<li className="nav-item">
 								<a className="nav-link" href="/#team">
 									Team

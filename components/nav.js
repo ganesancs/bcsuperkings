@@ -27,12 +27,12 @@ export default class Nav extends React.Component {
 					<div className="collapse navbar-collapse" id="main-navbar">
 						<ul className="navbar-nav mr-auto w-100 justify-content-end">
 							<li className="nav-item active">
-								<a className="nav-link" href="#header-wrap">
+								<a className="nav-link" href="/#header-wrap">
 									Home
 								</a>
 							</li>
 							<li className="nav-item">
-								<a className="nav-link" href="#about">
+								<a className="nav-link" href="/#about">
 									About
 								</a>
 							</li>
@@ -42,17 +42,17 @@ export default class Nav extends React.Component {
 								</Link>
 							</li>
 							<li className="nav-item">
-								<a className="nav-link" href="#team">
+								<a className="nav-link" href="/#team">
 									Team
 								</a>
 							</li>
 							<li className="nav-item">
-								<a className="nav-link" href="#faq">
+								<a className="nav-link" href="/#faq">
 									Faq
 								</a>
 							</li>
 							<li className="nav-item">
-								<a className="nav-link" href="#sponsors">
+								<a className="nav-link" href="/#sponsors">
 									Sponsors
 								</a>
 							</li>
@@ -67,7 +67,7 @@ export default class Nav extends React.Component {
 								</a>
 							</li>
 							<li className="nav-item">
-								<a className="nav-link" href="#contact-map">
+								<a className="nav-link" href="/#contact-map">
 									Contact
 								</a>
 							</li>
@@ -77,40 +77,28 @@ export default class Nav extends React.Component {
 
 				<ul className="mobile-menu">
 					<li>
-						<a href="#header-wrap">
-							Home
-						</a>
+						<a href="#header-wrap">Home</a>
 					</li>
 					<li>
-						<a href="#about">
-							About
-						</a>
+						<a href="#about">About</a>
 					</li>
 					<li>
 						<Link href="/events" as="/events">
 							<a className="nav-link">Events</a>
 						</Link>
-						
 					</li>
 					<li>
-						<a href="#team">
-							Team
-						</a>
+						<a href="#team">Team</a>
 					</li>
 					<li>
-						<a href="#faq">
-							Faq
-						</a>
+						<a href="#faq">Faq</a>
 					</li>
 					<li>
-						<a href="#sponsors">
-							Sponsors
-						</a>
+						<a href="#sponsors">Sponsors</a>
 					</li>
 					<li>
-						
 						<Link href="/membership" as="/membership">
-								<a className="nav-link">Become a member</a>
+							<a className="nav-link">Become a member</a>
 						</Link>
 					</li>
 					<li>
@@ -119,9 +107,7 @@ export default class Nav extends React.Component {
 						</a>
 					</li>
 					<li>
-						<a href="#contact-map">
-							Contact
-						</a>
+						<a href="#contact-map">Contact</a>
 					</li>
 				</ul>
 			</nav>
