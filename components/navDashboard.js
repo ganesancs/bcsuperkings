@@ -32,7 +32,7 @@ export default class NavDashboard extends React.Component {
 								</a>
 							</li>
 							<li className="nav-item">
-								<Link href="/events">
+								<Link href="/events" as="/events">
 									<a className="nav-link">Events</a>
 								</Link>
 							</li>
@@ -57,7 +57,7 @@ export default class NavDashboard extends React.Component {
 						</a>
 					</li>
 					<li>
-						<Link href="/events">
+						<Link href="/events" as="/events">
 							<a className="page-scrool">Events</a>
 						</Link>
 					</li>
