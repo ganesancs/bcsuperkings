@@ -37,7 +37,7 @@ export default class Nav extends React.Component {
 								</a>
 							</li>
 							<li className="nav-item">
-								<Link href="/events">
+								<Link href="/events" as="/events">
 									<a className="nav-link">Events</a>
 								</Link>
 							</li>
@@ -57,7 +57,7 @@ export default class Nav extends React.Component {
 								</a>
 							</li>
 							<li className="nav-item">
-								<Link href="/membership">
+								<Link href="/membership" as="/membership">
 									<a className="nav-link">Become a member</a>
 								</Link>
 							</li>
