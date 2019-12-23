@@ -62,11 +62,6 @@ export default class Nav extends React.Component {
 								</Link>
 							</li>
 							<li className="nav-item">
-								<a href="/api/login" className="nav-link">
-									Login
-								</a>
-							</li>
-							<li className="nav-item">
 								<a className="nav-link" href="/#contact-map">
 									Contact
 								</a>
@@ -100,11 +95,6 @@ export default class Nav extends React.Component {
 						<Link href="/membership" as="/membership">
 							<a className="nav-link">Become a member</a>
 						</Link>
-					</li>
-					<li>
-						<a href="/api/login" className="page-scroll">
-							Login
-						</a>
 					</li>
 					<li>
 						<a href="#contact-map">Contact</a>

@@ -61,11 +61,6 @@ export default class Membership extends React.Component {
 								</Link>
 							</li>
 							<li className="nav-item">
-								<a href="/api/login" className="nav-link">
-									Login
-								</a>
-							</li>
-							<li className="nav-item">
 								<a className="nav-link" href="/#contact-map">
 									Contact
 								</a>
@@ -108,11 +103,7 @@ export default class Membership extends React.Component {
 							<a className="page-scroll">Become a member</a>
 						</Link>
 					</li>
-					<li>
-						<a href="/api/login" className="page-scroll">
-							Login
-						</a>
-					</li>
+
 					<li>
 						<a className="page-scroll" href="/#contact-map">
 							Contact
