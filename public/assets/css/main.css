@@ -617,8 +617,8 @@ a.back-to-top:focus {
 }
 
 .navbar-brand img {
-  width: 68%;
-  max-width: 200px;
+  height: auto;
+  max-width: 100%;
 }
 
 .top-nav-collapse {
@@ -827,13 +827,16 @@ a.back-to-top:focus {
   #nav-main li a.nav-link {
     padding-top: 18px;
   }
+
+  .navbar-brand img {
+    max-height: 50%;
+    max-width: 50%;
+  }
+
+
   .slicknav_menu {
-  display: block;
-  position: inherit;
-}
-.navbar-brand img {
-    max-height: 30%;
-    max-width: 30%;
+    display: block;
+    position: inherit;
   }
 }
 
