@@ -827,6 +827,14 @@ a.back-to-top:focus {
   #nav-main li a.nav-link {
     padding-top: 18px;
   }
+  .slicknav_menu {
+  display: block;
+  position: inherit;
+}
+.navbar-brand img {
+    max-height: 30%;
+    max-width: 30%;
+  }
 }
 
 .navbar-toggler {
@@ -853,8 +861,8 @@ a.back-to-top:focus {
   }
 
   .navbar-brand img {
-    width: 68%;
-    max-width: 200px;
+    max-height: 25%;
+    max-width: 25%;
   }
 
   #mobile-menu {
