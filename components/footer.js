@@ -22,7 +22,7 @@ export default class Footer extends React.Component {
 									<a href="#team">Team</a>
 								</li>
 								<li>
-									<a href="#schedules">Upcoming Events</a>
+									<a href="/events">Upcoming Events</a>
 								</li>
 							</ul>
 						</div>
