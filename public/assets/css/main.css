@@ -849,8 +849,9 @@ a.back-to-top:focus {
 }
 
 .slicknav_menu {
-  display: none;
-}
+    display: block;
+    position: inherit;
+  }
 
 @media screen and (max-width: 768px) {
   .navbar-header {
