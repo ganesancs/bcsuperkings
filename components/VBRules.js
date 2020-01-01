@@ -28,7 +28,7 @@ export default class VBRules extends React.Component {
 									Non members 10 dollars .
 							</p>
 							<p className="lead">
-								<Button href="https://forms.gle/qhW86kQuDpP5YcxN7" color="primary">
+								<Button href="https://tinyurl.com/letsvolley" color="primary">
 									REGISTER!
 								</Button>
 							</p>
