@@ -32,7 +32,7 @@ export default class BadmintonRules extends React.Component {
 								Members 5 dollars <br/>
 								Non members 10 dollars .</p>
 							<p className="lead">
-								<Button href="https://forms.gle/YtF6SQGCvKQL4m2G6" color="primary">
+								<Button href="https://tinyurl.com/birdiefly" color="primary">
 									REGISTER!
 								</Button>
 							</p>
