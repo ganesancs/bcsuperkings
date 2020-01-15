@@ -28,7 +28,7 @@ export default class BadmintonRules extends React.Component {
 								Teen - Ages 17 and 18 <br />
 								Women singles <br />
 
-								<b> Evnet Fees </b> <br/>
+								<b> Event Fees </b> <br/>
 								Members 5 dollars <br/>
 								Non members 10 dollars .</p>
 							<p className="lead">
