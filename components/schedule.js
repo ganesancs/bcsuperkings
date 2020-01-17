@@ -33,7 +33,7 @@ export default class Schedule extends React.Component {
 										>
 											<div className="item-text">
 												<h4>Sunday</h4>
-												<h5>5 Jan</h5>
+												<h5>23 Feb</h5>
 											</div>
 										</a>
 									</li>
@@ -65,8 +65,8 @@ export default class Schedule extends React.Component {
 															alt=""
 														/>
 													</div>
-													<span className="time">8am - 8pm</span>
-													<h4>Indoor Cricket Tournament</h4>
+													<span className="time">4pm - 8pm</span>
+													<h4>Stay Strong</h4>
 												</div>
 											</div>
 											<div
@@ -78,7 +78,7 @@ export default class Schedule extends React.Component {
 												<div className="card-body">
 													<div className="location">
 														< a href="/cricket">Click here for registration and more details</a> <br/>
-														<span>Location:</span> Stallions Cricket Center: 304, 12886 Anvil Way #305, Surrey, BC V3W 8E7
+														<span>Location:</span>
 													</div>
 												</div>
 											</div>
