@@ -25,9 +25,11 @@ const EventsBar = props => {
 								Events
 							</DropdownToggle>
 							<DropdownMenu>
-								<DropdownItem href="/cricket">Indoor Cricket</DropdownItem>
+								
 								<DropdownItem href="/volleyball-2019">Women VolleyBall</DropdownItem>
 								<DropdownItem href="/badminton2020">Kids Badmintion</DropdownItem>
+								<DropdownItem href="/">Stay Strong</DropdownItem>
+								<DropdownItem href="/">Learn to Fish</DropdownItem>
 							</DropdownMenu>
 						</UncontrolledDropdown>
 					</Nav>
