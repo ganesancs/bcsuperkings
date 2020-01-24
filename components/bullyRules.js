@@ -25,12 +25,12 @@ export default class BullyRules extends React.Component {
 							<hr className="my-2" />
 							<p>
 								{' '}
-								Presided over by clinical psychologist and Early Childhood Educator. <br />
+								Our key speakers includes a clinical psychologist and early childhood educator. <br />
 							</p>
-							<h3>
+							<p>
 								Key Takeaways
 								<br />
-							</h3>
+							</p>
 							<div>
 								<ListGroup>
 									<ListGroupItem> Rules of Engagement </ListGroupItem>
@@ -42,7 +42,7 @@ export default class BullyRules extends React.Component {
 								</ListGroup>{' '}
 							</div>
 
-							<h3> Await our announcement for a bigger summer outdoor soft ball tournament! </h3>
+							
 							<p className="lead">
 								<Button href="https://tinyurl.com/ststong" color="primary">
 									REGISTER!

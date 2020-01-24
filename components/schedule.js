@@ -218,7 +218,7 @@ export default class Schedule extends React.Component {
 															alt=""
 														/>
 													</div>
-													<span className="time">4pm - 8pm</span>
+													<span className="time">4pm </span>
 													<h4>Stay Strong</h4>
 												</div>
 											</div>
@@ -230,7 +230,7 @@ export default class Schedule extends React.Component {
 											>
 												<div className="card-body">
 													<div className="location">
-														<a href="/bully">More details coming soon!!</a> <br />
+														<a href="/bully">Click here to Register!!</a> <br />
 														<span>TBA</span>
 													</div>
 												</div>

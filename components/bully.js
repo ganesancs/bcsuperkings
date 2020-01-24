@@ -9,7 +9,7 @@ export default class Bully extends React.Component {
 				</ol>
 				<div className="carousel-inner">
 					<div className="carousel-item active">
-						<img className="d-block w-100" src="https://wallpaperaccess.com/full/1325453.jpg" alt="" />
+						<img className="d-block w-100" src="https://www.baby-chick.com/wp-content/uploads/2019/10/Bullying-at-school-950609920_2129x1414.jpeg" alt="" />
 						<div className="carousel-caption d-md-block">
 							<h1 className="wow fadeInDown heading" data-wow-delay=".4s">
 								Stand Strong - Anti Bullying Workshop
