@@ -44,7 +44,7 @@ export default class BullyRules extends React.Component {
 
 							<h3> Await our announcement for a bigger summer outdoor soft ball tournament! </h3>
 							<p className="lead">
-								<Button href="https://forms.gle/VAxzrJMsyjMYo8Na9" color="primary">
+								<Button href="https://tinyurl.com/ststong" color="primary">
 									REGISTER!
 								</Button>
 							</p>
