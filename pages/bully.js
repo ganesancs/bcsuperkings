@@ -4,6 +4,7 @@ import Footer from '../components/footer';
 import Membership from '../components/membership';
 import Bully from '../components/bully';
 import BullyRules from '../components/bullyRules';
+import Sponsors from '../components/sponsors';
 const Home = () => (
 	<div>
 		<Head>
