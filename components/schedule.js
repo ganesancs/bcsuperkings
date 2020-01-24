@@ -17,7 +17,7 @@ export default class Schedule extends React.Component {
 							</div>
 						</div>
 					</div>
-				
+
 					<div className="schedule-area row wow fadeInDown" data-wow-delay="0.3s">
 						<div className="schedule-tab-title col-md-3 col-lg-3 col-xs-12">
 							<div className="table-responsive">
@@ -78,8 +78,12 @@ export default class Schedule extends React.Component {
 											>
 												<div className="card-body">
 													<div className="location">
-														< a href="/volleyball-2019">Click here for registration and more details</a> <br />
-														<span>Location:</span> Walnut Road Elementary School, 16152 82 Ave, Surrey, BC V4N 0N5
+														<a href="/volleyball-2019">
+															Click here for registration and more details
+														</a>{' '}
+														<br />
+														<span>Location:</span> Walnut Road Elementary School, 16152 82
+														Ave, Surrey, BC V4N 0N5
 													</div>
 												</div>
 											</div>
@@ -150,8 +154,12 @@ export default class Schedule extends React.Component {
 											>
 												<div className="card-body">
 													<div className="location">
-														< a href="/badminton2020">Click here for registration and more details</a> <br />
-														<span>Location:</span> Walnut Road Elementary School, 16152 82 Ave, Surrey, BC V4N 0N5
+														<a href="/badminton2020">
+															Click here for registration and more details
+														</a>{' '}
+														<br />
+														<span>Location:</span> Walnut Road Elementary School, 16152 82
+														Ave, Surrey, BC V4N 0N5
 													</div>
 												</div>
 											</div>
@@ -161,7 +169,7 @@ export default class Schedule extends React.Component {
 							</div>
 						</div>
 					</div>
-				
+
 					<div className="schedule-area row wow fadeInDown" data-wow-delay="0.3s">
 						<div className="schedule-tab-title col-md-3 col-lg-3 col-xs-12">
 							<div className="table-responsive">
@@ -222,7 +230,7 @@ export default class Schedule extends React.Component {
 											>
 												<div className="card-body">
 													<div className="location">
-														< a href="/cricket">More details coming soon!!</a> <br />
+														<a href="/bully">More details coming soon!!</a> <br />
 														<span>TBA</span>
 													</div>
 												</div>
@@ -233,7 +241,7 @@ export default class Schedule extends React.Component {
 							</div>
 						</div>
 					</div>
-				
+
 					<div className="schedule-area row wow fadeInDown" data-wow-delay="0.3s">
 						<div className="schedule-tab-title col-md-3 col-lg-3 col-xs-12">
 							<div className="table-responsive">
@@ -294,7 +302,7 @@ export default class Schedule extends React.Component {
 											>
 												<div className="card-body">
 													<div className="location">
-														< a href="/cricket">More details coming soon!!</a> <br />
+														<a href="#">More details coming soon!!</a> <br />
 														<span>TBA</span>
 													</div>
 												</div>
