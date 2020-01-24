@@ -21,7 +21,7 @@ export default class BullyRules extends React.Component {
 						<Container fluid>
 							<h1 className="display-3">More details about the event</h1>
 							<p className="lead">North Delta Recreation Centre: 11415 84 Ave, Delta, BC V4C 2L9</p>
-							<p className="lead">4 pm - 8 pm</p>
+							<p className="lead">Sunday 23rd February 2020  4 pm - 8 pm</p>
 							<hr className="my-2" />
 							<p>
 								{' '}
@@ -33,12 +33,12 @@ export default class BullyRules extends React.Component {
 							</p>
 							<div>
 								<ListGroup>
-									<ListGroupItem> Rules of Engagement </ListGroupItem>
+									<ListGroupItem>Rules of Engagement </ListGroupItem>
 									<ListGroupItem>How to diffuse ANY bullying situation </ListGroupItem>
-									<ListGroupItem>Team selection will be done on the day of the event</ListGroupItem>
 									<ListGroupItem>Verbal Communication Techniques</ListGroupItem>
 									<ListGroupItem>Simple & effective self defense </ListGroupItem>
 									<ListGroupItem>How to control a bully on the ground</ListGroupItem>
+									<ListGroupItem>And many more ...</ListGroupItem>
 								</ListGroup>{' '}
 							</div>
 
