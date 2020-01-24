@@ -24,6 +24,21 @@ export default class Sponsors extends React.Component {
 									<img class="img-fluid" src="assets/img/sponsors/hsb.jpg" alt="" />
 								</a>
 							</div>
+							<div className="spnsors-logo">
+								<a href="#">
+									<img class="img-fluid" src="assets/img/sponsors/Zeecanada.jpeg" alt="" />
+								</a>
+							</div>
+							<div className="spnsors-logo">
+								<a href="#">
+									<img class="img-fluid" src="assets/img/sponsors/zee.jpeg" alt="" />
+								</a>
+							</div>
+							<div className="spnsors-logo">
+								<a href="#">
+									<img class="img-fluid" src="assets/img/sponsors/ansul.jpeg" alt="" />
+								</a>
+							</div>
 						</div>
 					</div>
 					<div className="row mb-30 text-center wow fadeInDown" data-wow-delay="0.3s">
