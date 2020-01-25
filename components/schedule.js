@@ -231,7 +231,7 @@ export default class Schedule extends React.Component {
 												<div className="card-body">
 													<div className="location">
 														<a href="/bully">Click here to Register!!</a> <br />
-														<span>TBA</span>
+														<span>Location:</span> North Delta Community Center 11415 84 Ave, Delta BC
 													</div>
 												</div>
 											</div>
