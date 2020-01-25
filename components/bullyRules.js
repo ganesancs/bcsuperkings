@@ -25,7 +25,14 @@ export default class BullyRules extends React.Component {
 							<hr className="my-2" />
 							<p>
 								{' '}
-								Our key speakers includes a clinical psychologist and early childhood educator. <br />
+								Our key speakers include  <br />
+								<ListGroup>
+									<ListGroupItem>Clinical Psychologist </ListGroupItem>
+									<ListGroupItem>Police department official </ListGroupItem>
+									<ListGroupItem>University Professor</ListGroupItem>
+									<ListGroupItem>High School Teacher </ListGroupItem>
+									<ListGroupItem>Early Childhood Educator</ListGroupItem>
+								</ListGroup>{' '}
 							</p>
 							<p>
 								Key Takeaways
