@@ -33,6 +33,78 @@ export default class Schedule extends React.Component {
 											aria-expanded="true"
 										>
 											<div className="item-text">
+												<h4>Mondays</h4>
+												<h5>Nov 2021 - June 2022</h5>
+											</div>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div className="schedule-tab-content col-md-9 col-lg-9 col-xs-12 clearfix">
+							<div className="tab-content" id="myTabContent">
+								<div
+									className="tab-pane fade show active"
+									id="monday"
+									role="tabpanel"
+									aria-labelledby="monday-tab"
+								>
+									<div id="accordion">
+										<div className="card">
+											<div id="headingOne">
+												<div
+													className="collapsed card-header"
+													data-toggle="collapse"
+													data-target="#collapseOne"
+													aria-expanded="false"
+													aria-controls="collapseOne"
+												>
+													<div className="images-box">
+														<img
+															className="img-fluid"
+															src="assets/img/speaker/speakers-1.png"
+															alt=""
+														/>
+													</div>
+													<span className="time">7PM - 10PM</span>
+													<h4>Play, Practice, Learn Badminton!</h4>
+												</div>
+											</div>
+											<div
+												id="collapseOne"
+												className="collapse show"
+												aria-labelledby="headingOne"
+												data-parent="#accordion"
+											>
+												<div className="card-body">
+													<div className="location">
+														<a href="https://www.facebook.com/109709417157095/posts/450100226451344/?d=n">More details here!!</a> <br />
+														<span>Cougar Creek Elementary School, Surrey</span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div className="schedule-area row wow fadeInDown" data-wow-delay="0.3s">
+						<div className="schedule-tab-title col-md-3 col-lg-3 col-xs-12">
+							<div className="table-responsive">
+								<ul className="nav nav-tabs" id="myTab" role="tablist">
+									<li className="nav-item">
+										<a
+											className="nav-link active"
+											id="monday-tab"
+											data-toggle="tab"
+											href="#monday"
+											role="tab"
+											aria-controls="monday"
+											aria-expanded="true"
+										>
+											<div className="item-text">
 												<h4>Sunday</h4>
 												<h5>26 Jan</h5>
 											</div>
@@ -242,77 +314,7 @@ export default class Schedule extends React.Component {
 						</div>
 					</div>
 
-					<div className="schedule-area row wow fadeInDown" data-wow-delay="0.3s">
-						<div className="schedule-tab-title col-md-3 col-lg-3 col-xs-12">
-							<div className="table-responsive">
-								<ul className="nav nav-tabs" id="myTab" role="tablist">
-									<li className="nav-item">
-										<a
-											className="nav-link active"
-											id="monday-tab"
-											data-toggle="tab"
-											href="#monday"
-											role="tab"
-											aria-controls="monday"
-											aria-expanded="true"
-										>
-											<div className="item-text">
-												<h4>Sunday</h4>
-												<h5>31 May</h5>
-											</div>
-										</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-						<div className="schedule-tab-content col-md-9 col-lg-9 col-xs-12 clearfix">
-							<div className="tab-content" id="myTabContent">
-								<div
-									className="tab-pane fade show active"
-									id="monday"
-									role="tabpanel"
-									aria-labelledby="monday-tab"
-								>
-									<div id="accordion">
-										<div className="card">
-											<div id="headingOne">
-												<div
-													className="collapsed card-header"
-													data-toggle="collapse"
-													data-target="#collapseOne"
-													aria-expanded="false"
-													aria-controls="collapseOne"
-												>
-													<div className="images-box">
-														<img
-															className="img-fluid"
-															src="assets/img/speaker/speakers-1.png"
-															alt=""
-														/>
-													</div>
-													<span className="time">4pm - 8pm</span>
-													<h4>Learn to Fish!</h4>
-												</div>
-											</div>
-											<div
-												id="collapseOne"
-												className="collapse show"
-												aria-labelledby="headingOne"
-												data-parent="#accordion"
-											>
-												<div className="card-body">
-													<div className="location">
-														<a href="#">More details coming soon!!</a> <br />
-														<span>TBA</span>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
+					
 				</div>
 			</section>
 		);
