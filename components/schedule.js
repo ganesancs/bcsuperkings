@@ -90,6 +90,17 @@ export default class Schedule extends React.Component {
 						</div>
 					</div>
 
+					<div className="row">
+						<div className="col-12">
+							<div className="section-title-header text-center">
+								<p className="wow fadeInDown" data-wow-delay="0.2s">
+									Past Events.....
+								</p>
+							</div>
+						</div>
+					</div>
+
+
 					<div className="schedule-area row wow fadeInDown" data-wow-delay="0.3s">
 						<div className="schedule-tab-title col-md-3 col-lg-3 col-xs-12">
 							<div className="table-responsive">
@@ -106,7 +117,7 @@ export default class Schedule extends React.Component {
 										>
 											<div className="item-text">
 												<h4>Sunday</h4>
-												<h5>26 Jan</h5>
+												<h5>26 Jan 2020</h5>
 											</div>
 										</a>
 									</li>
@@ -182,7 +193,7 @@ export default class Schedule extends React.Component {
 										>
 											<div className="item-text">
 												<h4>Sunday</h4>
-												<h5>26 Jan</h5>
+												<h5>26 Jan 2020</h5>
 											</div>
 										</a>
 									</li>
@@ -258,7 +269,7 @@ export default class Schedule extends React.Component {
 										>
 											<div className="item-text">
 												<h4>Sunday</h4>
-												<h5>23 Feb</h5>
+												<h5>23 Feb 2020</h5>
 											</div>
 										</a>
 									</li>
